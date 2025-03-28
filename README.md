@@ -31,13 +31,16 @@ The application is deployed and accessible at: [Employwise User Management](http
    cd employwise-user-management
 
 2. Install dependencies:
-    ```npm install
+    ```bash
+    npm install
 
 3. Start the development server:
-    ```npm start
+    ```bash
+    npm start
 
 4. Open the app in your browser at 
-    ```http://localhost:3000.
+    ```bash
+    http://localhost:3000.
 
 
 # Login Credentials
